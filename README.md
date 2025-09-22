@@ -1,26 +1,31 @@
-📚 **Overview
-**
-CODESOFT is a collection of machine learning projects implemented in Python using Jupyter Notebooks. Each project demonstrates practical applications of machine learning algorithms to solve real-world problems.
+**CODSOFT**
 
-🧠 Projects Included
-**1.** Credit Card Fraud Detection
+Welcome to the CODSOFT repository! This collection features machine learning projects developed during the CODSOFT internship, showcasing the practical application of advanced algorithms to solve real-world problems.
 
-**Objective:** Build a machine learning model to identify fraudulent credit card transactions.
-
-**Key Techniques:** Data preprocessing, normalization, handling class imbalance, model training (Logistic Regression, Random Forest), and performance evaluation using metrics like precision, recall, and F1-score.
-
-**2.** Movie Recommendation System
-
-**Objective:** Develop a recommendation system to suggest movies based on user preferences.
-
-**Key Techniques:** Collaborative filtering, content-based filtering, and hybrid recommendation methods.
-
-**3.** Titanic Survival Prediction
+**Projects Included**
+**1.** Titanic Survival Prediction
 
 **Objective:** Predict the survival of passengers aboard the Titanic.
 
 **Key Techniques:** Data preprocessing, feature engineering, model training (Logistic Regression, Decision Trees), and evaluation.
 
+**2.** Sales Prediction
+
+**Objective:** Predict future sales based on advertising budgets across TV, Radio, and Newspaper.
+
+**Key Techniques:** Data preprocessing, feature engineering, model training (Linear Regression, Random Forest), and evaluation.
+
+**3.** Credit Card Fraud Detection
+
+**Objective:** Build a machine learning model to identify fraudulent credit card transactions.
+
+**Key Techniques:** Data preprocessing, normalization, handling class imbalance, model training (Logistic Regression, Random Forest), and evaluation.
+
+**4.** Movie Recommendation System
+
+**Objective:** Develop a recommendation system to suggest movies to users based on their preferences.
+
+**Key Techniques:** Data preprocessing, collaborative filtering, content-based filtering, and evaluation.
 ⚙️ **Technologies Used**
 
 Python
