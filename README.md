@@ -26,6 +26,23 @@ Welcome to the CODSOFT repository! This collection features machine learning pro
 **Objective:** Develop a recommendation system to suggest movies to users based on their preferences.
 
 **Key Techniques:** Data preprocessing, collaborative filtering, content-based filtering, and evaluation.
+**Iris Flower Classification**
+**Objective**
+Predict the species of Iris flowers (Setosa, Versicolor, Virginica) using their sepal and petal measurements. This is a classic dataset for introductory classification tasks in machine learning.
+**Key Techniques**
+**Data Preprocessing:** Handling missing values and scaling features.
+
+**Model Training:**
+
+Logistic Regression
+
+Support Vector Machine (SVM)
+
+Random Forest Classifier
+
+Model Evaluation: Accuracy, classification report, and confusion matrix.
+
+**Prediction:** Predict species for new Iris flower measurements.
 ⚙️ **Technologies Used**
 
 Python
